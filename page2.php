@@ -1,9 +1,24 @@
 <html>
 	<head>
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+			#box1{
+				width: 800px;
+				height: 350px;
+			}
+			.box{
+				background-color: blue;
+			}
+			body{
+                                background-color: lightpink;
+			}
+			h1{
+				color: yellow;      
+		</style>
 	</head>
 	<body>
-		<p style="color:green;">ข้อความนี้สีเขียวปกติ</p>
-		<p style="color:#82933f;">ข้อความนี้สีเขียวรหัสสี</p>
+		<div id="box1" class="box">
+			<h1>นาย ปณชัย สมใส ชั้น 4/13 เลขที่ 4</h1>
+		</div>
 	</body>
 </html>
