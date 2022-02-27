@@ -31,10 +31,10 @@
         <td><a href="https://www.instagram.com/wernerheisenbergphysics/">instagram</a></td>
       <tr>
         <td>4</td>
-        <td>แทอิล มูน</td>
-        <td>แทอิล</td>
-        <td><img src="https://i0.wp.com/dudeplace.co/wp-content/uploads/2021/07/notes_210706_225644_5328950296337329393623.jpg?fit=900%2C600&ssl=1" width="130px"></td>
-        <td><a href="https://instagram.com/mo.on_air?utm_medium=copy_link">instagram</a></td>
+        <td>Erwin Rudolf Josef Alexander Schrödinger</td>
+        <td>Schrödinger</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Erwin_Schrodinger2.jpg" width="130px"></td>
+        <td><a href="https://www.instagram.com/explore/tags/schrodinger/">instagram</a></td>
       <tr>
         <td>5</td>
         <td>ยุนโอ จอง</td>
