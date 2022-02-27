@@ -13,8 +13,8 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>มาร์ค ลี</td>
-        <td>มาร์ค</td>
+        <td>Isaac Newton</td>
+        <td>Isaac Newton</td>
         <td><img src="https://us-fbcloud.net/quiz/data/24/24166.qst0.ans1.jpg" width="130px"></td>
         <td><a href="https://instagram.com/onyourm__ark?utm_medium=copy_link">instagram</a></td>
       <tr>
