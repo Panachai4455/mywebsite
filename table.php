@@ -25,10 +25,10 @@
         <td><a href="https://www.instagram.com/alberteinstein/">instagram</a></td>
       <tr>
         <td>3</td>
-        <td>ยองโฮ ซอ</td>
-        <td>จอห์นนี่</td>
-        <td><img src="https://i.pinimg.com/236x/80/77/1b/80771b2fbe417dab381480ba639e216a.jpg" width="130px"></td>
-        <td><a href="https://instagram.com/johnnyjsuh?utm_medium=copy_link">instagram</a></td>
+        <td>Werner Heisenberg</td>
+        <td>Heisenberg</td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg/377px-Bundesarchiv_Bild183-R57262%2C_Werner_Heisenberg.jpg" width="130px"></td>
+        <td><a href="https://www.instagram.com/wernerheisenbergphysics/">instagram</a></td>
       <tr>
         <td>4</td>
         <td>แทอิล มูน</td>
