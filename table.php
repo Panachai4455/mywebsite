@@ -14,8 +14,8 @@
       <tr>
         <td>1</td>
         <td>Isaac Newton</td>
-        <td>Isaac Newton</td>
-        <td><img src="https://us-fbcloud.net/quiz/data/24/24166.qst0.ans1.jpg" width="130px"></td>
+        <td>Isaac</td>
+        <td><img src="https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_1200/MTcxMzkwNTQzNzgyMjI1OTAy/gettyimages-90733811.jpg" width="130px"></td>
         <td><a href="https://instagram.com/onyourm__ark?utm_medium=copy_link">instagram</a></td>
       <tr>
         <td>2</td>
