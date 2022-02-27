@@ -19,10 +19,10 @@
         <td><a href="https://www.instagram.com/sir.isaac.newton/">instagram</a></td>
       <tr>
         <td>2</td>
-        <td>แฮชาน ลี</td>
-        <td>แฮชาน</td>
-        <td><img src="https://pbs.twimg.com/media/EkoG04YVMAA3O1y.jpg" width="130px"></td>
-        <td><a href="https://instagram.com/fullsun_ncit?utm_medium=copy_link">instagram</a></td>
+        <td>Albert Einstein</td>
+        <td>Einstein</td>
+        <td><img src="https://www.meteorologiaenred.com/wp-content/uploads/2020/05/Albert-Einstein.jpeg" width="130px"></td>
+        <td><a href="https://www.instagram.com/alberteinstein/">instagram</a></td>
       <tr>
         <td>3</td>
         <td>ยองโฮ ซอ</td>
