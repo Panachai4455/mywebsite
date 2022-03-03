@@ -10,7 +10,7 @@
     }
     @font-face{
       font-family: myFont2;
-      src: url(Doughnut.woff)
+      src: url(Arrow.woff)
     }
     #font1{
 	font-family: myFont1;
@@ -21,7 +21,7 @@
   </style>
 </head>
 <body>
-  <h1 id="font1">นางสาวกชกร นามสิมมา ม.4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
-  <h1 id="font2">นางสาวกชกร นามสิมมา ม.4/13 เลขที่ 13 เลขประจำตัว 57022</h1>
+  <h1 id="font1">นายปณชัย สมใส ม.4/13 เลขที่ 4 เลขประจำตัว 57017</h1>
+  <h1 id="font2">นายปณชัย สมใส ม.4/13 เลขที่ 4 เลขประจำตัว 57017</h1>
 </body>
 </html>
